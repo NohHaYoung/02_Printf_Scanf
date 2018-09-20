@@ -5,7 +5,6 @@
 int main(void) 
 {
 	char c;
-	int i;
 	
 	printf("input a character : ");
 	scanf("%c", &c);
